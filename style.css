@@ -299,7 +299,7 @@ top:15rem;
         margin-top:1rem;
         font-size: 8rem;
         display: block;
-        height: 17rem;
+        height: 25rem;
         text-align: center;
         color:ivory;
         text-shadow: 1rem 0.5rem 1rem rgb(233, 212, 195);
@@ -333,7 +333,7 @@ p{
 font-size: 5rem;
 text-align: justify;
 letter-spacing: 0.2rem;
-line-height: 6rem;
+line-height: 7rem;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 border: 1rem  orange  solid;
 border-radius: 30%;
